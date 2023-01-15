@@ -1,12 +1,18 @@
 # Skyroute
 
 ## About:
+
+## Rules:
+
   
 ## Sources:
 
 <p>This app is inspired by Codecademy.</p>
 
 ## Pre-requisites:
+
+Python 3.10<br>
+virtualenv
 
 ## How to run:
 
@@ -19,3 +25,11 @@
   <li>Run:<br><br>
       python3 ... <br>        
 </ol>
+
+## Stats:
+
+![skyroute](https://img.shields.io/github/languages/top/marta-rakowska/skyroute)
+
+![skyroute](https://img.shields.io/github/license/marta-rakowska/skyroute.svg)
+
+![skyroute](https://img.shields.io/github/watchers/marta-rakowska/skyroute.svg)

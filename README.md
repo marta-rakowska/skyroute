@@ -4,7 +4,7 @@
 
 I created this project as part of my Codecademy's curriculum. 
 
-"SkyRoute" is a tool that uses depth first-search and breadth-first search in order to determine the fastest route from one landmark to another.
+"SkyRoute" is a tool that uses depth first-search and breadth-first search in order to determine the fastest route from one landmark to another in Vancouver.
 
 For the purposes of this project, I assume that it takes the same amount of time to get from each station to each of its connected neighboring stations.
   

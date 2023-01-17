@@ -1,4 +1,4 @@
-# Skyroute
+# SkyRoute
 
 ## About:
 
@@ -26,7 +26,7 @@ virtualenv
   <li>Clone git repository:<br><br>
       git clone https://github.com/marta-rakowska/<br><br>
   <li>Run:<br><br>
-      python3 ... <br>        
+      python3 skyroute.py <br>        
 </ol>
 
 ## Stats:
